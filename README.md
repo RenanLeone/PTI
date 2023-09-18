@@ -223,3 +223,6 @@ public class CadastroFornecedor {
 
 ```
 
+# AUTOR 
+
+Renan Gonçalves Dos Santos
