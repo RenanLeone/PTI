@@ -108,7 +108,7 @@ public class CadastroPessoaFisica {
 }
 ```
 # CÓDIGO PARA CADASTRO DE PESSOA JURIDICA 
-'''JAVA
+```java
 import java.util.Scanner;
 
 public class CadastroPessoaJuridica {
@@ -137,6 +137,7 @@ public class CadastroPessoaJuridica {
     }
 }
 ```
+
 # CÓDIGO PARA CADASTRO DE FORNECEDOR
 ```java
 import java.util.ArrayList;
