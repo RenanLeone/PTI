@@ -14,7 +14,7 @@ Aplicamos diagramas de casos de uso, diagramas de classes, e cenários de casos 
 Java
 
 # CODIGO PARA CADASTRO DE ALUNOS
-
+'''JAVA
 import java.util.Scanner;
 
 public class CadastroAlunos {
@@ -42,9 +42,9 @@ public class CadastroAlunos {
         input.close();
     }
 }
-
+'''
 # CODIGO PARA CADASTRO DE PROFESSORES 
-
+'''JAVA
 import java.util.Scanner;
 
 public class CadastroProfessores {
@@ -72,9 +72,9 @@ public class CadastroProfessores {
         input.close();
     }
 }
-
+'''
 # CODIGO PARA CADASTRO DE PESSOA FISICA
-
+'''JAVA
 import java.util.Scanner;
 
 public class CadastroPessoaFisica {
@@ -106,9 +106,9 @@ public class CadastroPessoaFisica {
         input.close();
     }
 }
-
+'''
 # CODIGO PARA CADASTRO DE PESSOA JURIDICA 
-
+'''JAVA
 import java.util.Scanner;
 
 public class CadastroPessoaJuridica {
@@ -136,9 +136,9 @@ public class CadastroPessoaJuridica {
         input.close();
     }
 }
-
+'''
 # CODIGO PARA CADASTRO DE FORNECEDOR
-
+'''JAVA
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -218,6 +218,8 @@ public class CadastroFornecedor {
         
         System.out.println(c1.cadastroFornecedor.toString());
     }
+'''
+    
 }
 
 
