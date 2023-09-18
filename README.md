@@ -14,7 +14,7 @@ Aplicamos diagramas de casos de uso, diagramas de classes, e cenários de casos 
 Java
 
 # CODIGO PARA CADASTRO DE ALUNOS
-'''JAVA
+'''java
 import java.util.Scanner;
 
 public class CadastroAlunos {
