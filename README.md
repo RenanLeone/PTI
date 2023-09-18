@@ -10,10 +10,10 @@ Aplicamos diagramas de casos de uso, diagramas de classes, e cenários de casos 
 ![image](https://github.com/RenanLeone/PTI/assets/145399765/fe9232a5-75c2-46e3-9c58-855c0130bbc2)
 ![image](https://github.com/RenanLeone/PTI/assets/145399765/39e97196-f9e7-462f-a1ca-9a92b674c402)
 
-# TÉCNOLOGIA ULTILIZADA 
+# TECNOLOGIA ULTILIZADA 
 Java
 
-# CODIGO PARA CADASTRO DE ALUNOS
+# CÓDIGO PARA CADASTRO DE ALUNOS
 ```java
 import java.util.Scanner;
 
@@ -43,7 +43,7 @@ public class CadastroAlunos {
     }
 }
 ```
-# CODIGO PARA CADASTRO DE PROFESSORES 
+# CÓDIGO PARA CADASTRO DE PROFESSORES 
 ```java
 import java.util.Scanner;
 
@@ -73,7 +73,7 @@ public class CadastroProfessores {
     }
 }
 ```
-# CODIGO PARA CADASTRO DE PESSOA FISICA
+# CÓDIGO PARA CADASTRO DE PESSOA FISICA
 ```java
 import java.util.Scanner;
 
@@ -107,7 +107,7 @@ public class CadastroPessoaFisica {
     }
 }
 ```
-# CODIGO PARA CADASTRO DE PESSOA JURIDICA 
+# CÓDIGO PARA CADASTRO DE PESSOA JURIDICA 
 '''JAVA
 import java.util.Scanner;
 
@@ -137,7 +137,7 @@ public class CadastroPessoaJuridica {
     }
 }
 ```
-# CODIGO PARA CADASTRO DE FORNECEDOR
+# CÓDIGO PARA CADASTRO DE FORNECEDOR
 ```java
 import java.util.ArrayList;
 import java.util.Scanner;
